@@ -1,2 +1,2 @@
-# COMPETITION
+# COMPETITIONS
 Kaggle &amp; Dacon competitions 
